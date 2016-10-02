@@ -1,2 +1,2 @@
 A site that encodes and more helpful decodes jwt tokens.
-[JSON Web Token](https://www.jsonwebtoken.io){:target="_blank"}
+[JSON Web Token](https://www.jsonwebtoken.io)
